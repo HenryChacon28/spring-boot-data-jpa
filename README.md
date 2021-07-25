@@ -1,7 +1,7 @@
 # Getting Started
 
 ### 1-Crear la base de datos en mysql
-### 2-Nombrarla spring db_springboot
+### 2-Nombrarla db_springboot
 ### 3-levantar aplicación
 
 ### Reference Documentation
